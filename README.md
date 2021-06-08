@@ -1,1 +1,1 @@
-# Linear-Regression
+# Salary Predictor with flask deployment.
